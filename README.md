@@ -1,7 +1,9 @@
 [![Header](https://www.borissobreirapaleo.com/assets/landscapeNight-NTPZqMUJ.png "Header")](https://www.borissobreirapaleo.com/)
 
 <h1 align="center">Hi 👋, I'm Boris Sobreira Paleo</h1>
-<h3 align="center">Syadmin and programmer seeking new opportunities to expand and refine my skills</h3>
+<h3 align="center">✔️ Systems administrator and programmer seeking new opportunities to expand and refine my skills.</h3>
+<h3 align="center">✔️ I possess a profound interest in the latest technologies and a demonstrated ability to understand how they transform and enrich both the human experience and business performance.</h3>
+<h3 align="center">✔️ My commitment is to continually evolve and contribute meaningfully to the growth and success of the organizations I collaborate with.</h3>
 
 - 👨‍💻 All of my projects are available at [https://www.borissobreirapaleo.com](https://www.borissobreirapaleo.com)
 
