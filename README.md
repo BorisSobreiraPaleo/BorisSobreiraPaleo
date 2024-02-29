@@ -1,3 +1,5 @@
+[![Header](https://www.borissobreirapaleo.com/assets/landscapeNight-NTPZqMUJ.png "Header")](https://www.borissobreirapaleo.com/)
+
 <h1 align="center">Hi 👋, I'm Boris Sobreira Paleo</h1>
 <h3 align="center">Syadmin and programmer seeking new opportunities to expand and refine my skills</h3>
 
