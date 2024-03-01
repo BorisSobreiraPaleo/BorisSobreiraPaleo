@@ -23,6 +23,6 @@
 <a href='https://github.com/BorisSobreiraPaleo/Personal-Website' title="PersonalWeb" target='_blank'>
   <img width='32%'  src='https://github.com/BorisSobreiraPaleo/Personal-Website/blob/main/src/assets/images/projects/enDarkPersonalWeb.png?raw=true' alt='Personal Web' />
 </a>
-<a href='https://github.com/BorisSobreiraPaleo/Personal-Website' title="PersonalWeb" target='_blank'>
+<a href='https://github.com/BorisSobreiraPaleo/CreateTimelapse' title="TimelapseGenerator" target='_blank'>
   <img width='32%'  src='https://github.com/BorisSobreiraPaleo/Personal-Website/blob/main/src/assets/images/projects/timelapseGenerator.png?raw=true' alt='Timelapse Generator' />
 </a>
