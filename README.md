@@ -26,6 +26,6 @@
 <a href='https://github.com/BorisSobreiraPaleo/CreateTimelapse' title="TimelapseGenerator" target='_blank'>
   <img width='32%'  src='https://github.com/BorisSobreiraPaleo/Personal-Website/blob/main/src/assets/images/projects/timelapseGenerator.png?raw=true' alt='Timelapse Generator' />
 </a>
-<a href='https://t.me/+rOvfAbcfAhliOWVk' title="Redtotel Channels" target='_blank'>
+<a href='https://t.me/s/redtotelsafe/8' title="Redtotel Channels" target='_blank'>
   <img width='32%'  src='https://github.com/BorisSobreiraPaleo/Personal-Website/blob/main/src/assets/images/projects/redtotelDark.png?raw=true' alt='Redtotel Channels' />
 </a>
